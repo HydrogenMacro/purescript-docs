@@ -1,0 +1,14 @@
+package:
+  name: docs
+  dependencies:
+    - aff
+    - argonaut
+    - console
+    - effect
+    - fetch
+    - halogen
+    - prelude
+workspace:
+  packageSet:
+    registry: 65.0.0
+  extraPackages: {}
